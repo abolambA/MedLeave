@@ -2,8 +2,9 @@
 
 MedLeave is a modern HR web platform designed to **digitize and streamline medical leave management** for organizations.  
 It replaces manual, paper-based workflows with a secure, role-based system that allows employees to submit medical leave requests and administrators to review, approve, and manage them efficiently — all in one place.
+**Note: This Platform can be applied to different business types or foundations and it's not specialised specifically for healthcare Sector as the platform rules are related to a company HR rules that can be specialized and customized for multiple purposes and usages by time**
 
-🌐 **Live Demo:**  
+🌐 **Platform Link:**  
 👉 https://medleave.net
 
 ---
