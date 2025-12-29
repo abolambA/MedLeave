@@ -4,7 +4,7 @@ MedLeave is a modern HR web platform designed to **digitize and streamline medic
 It replaces manual, paper-based workflows with a secure, role-based system that allows employees to submit medical leave requests and administrators to review, approve, and manage them efficiently — all in one place.
 
 🌐 **Live Demo:**  
-👉 https://medleave.lovable.app
+👉 https://medleave.net
 
 ---
 
