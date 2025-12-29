@@ -168,40 +168,29 @@ This prototype includes:
 
 ---
 
-## 📸 Screenshots
-
-> Capture screenshots directly from the live demo:  
-> 👉 https://medleave.lovable.app  
->  
-> Save images in a `/screenshots` folder and update the paths below.
-
-### 🔑 Login Page
-![Login Page](screenshots/login.png)
-
-### 👨‍⚕️ Employee Dashboard
-![Employee Dashboard](screenshots/employee-dashboard.png)
-
-### 📝 Leave Request Form
-![Leave Request Form](screenshots/leave-request-form.png)
-
-### 🛡️ Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### ✅ Approval Workflow
-![Approval Workflow](screenshots/approval-workflow.png)
-
----
-
-## ▶️ How to Run Locally (Optional)
-
-This project is primarily hosted on **Lovable Cloud**.  
-Local development depends on Lovable’s CLI and environment setup.
-
----
-
 ## 📄 License
 
-This project is a **prototype** developed for demonstration and educational purposes.
+MIT License
+
+Copyright (c) 2025 Nihad Alsufe
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
 
